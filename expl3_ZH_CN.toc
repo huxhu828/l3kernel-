@@ -1,0 +1,25 @@
+\contentsline {section}{\numberline {1}\CJKfamily {heiti}介绍}{3}{section.0.1}%
+\contentsline {section}{\numberline {2}\CJKfamily {heiti}语言和接口}{4}{section.0.2}%
+\contentsline {section}{\numberline {3}\CJKfamily {heiti}命名方案}{6}{section.0.3}%
+\contentsline {subsection}{\numberline {3.1}示例}{6}{subsection.0.3.1}%
+\contentsline {subsection}{\numberline {3.2}正式的命名语法}{7}{subsection.0.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}区分私有材料和公共材料}{7}{subsubsection.0.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}使用 \texttt {@@}\ 和 \pkg {l3docstrip}\ 标记私有代码}{8}{subsubsection.0.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}变量：声明}{9}{subsubsection.0.3.2.3}%
+\contentsline {subsubsection}{\numberline {3.2.4}变量：作用域和类型}{9}{subsubsection.0.3.2.4}%
+\contentsline {subsubsection}{\numberline {3.2.5}变量：指导}{11}{subsubsection.0.3.2.5}%
+\contentsline {subsubsection}{\numberline {3.2.6}函数：参数规范}{12}{subsubsection.0.3.2.6}%
+\contentsline {section}{\numberline {4}\CJKfamily {heiti}展开控制}{14}{section.0.4}%
+\contentsline {subsection}{\numberline {4.1}简单意味着更好}{16}{subsection.0.4.1}%
+\contentsline {subsection}{\numberline {4.2}旧功能中的新功能}{17}{subsection.0.4.2}%
+\contentsline {section}{\numberline {5}\CJKfamily {heiti}分发}{20}{section.0.5}%
+\contentsline {section}{\numberline {6}{\CJKfamily {heiti}从} \LaTeXe {}\ {\CJKfamily {heiti}迁移到} \pkg {expl3}}{21}{section.0.6}%
+\contentsline {section}{\numberline {7}\pkg {expl3}\ {\CJKfamily {heiti}的加载时间选项}}{22}{section.0.7}%
+\contentsline {section}{\numberline {8}{\CJKfamily {heiti}使用} \pkg {expl3}\ {\CJKfamily {heiti}和} \LaTeXe {}\ {\CJKfamily {heiti}以外的格式}}{24}{section.0.8}%
+\contentsline {section}{\numberline {9}\CJKfamily {heiti}引擎/基本要求}{25}{section.0.9}%
+\contentsline {section}{\numberline {10}\LaTeX {}\ {\CJKfamily {heiti}项目}}{26}{section.0.10}%
+\contentsline {section}{\numberline {11}\pkg {expl3}\ {\CJKfamily {heiti}实现}}{27}{section.0.11}%
+\contentsline {subsection}{\numberline {11.1}加载程序联锁}{27}{subsection.0.11.1}%
+\contentsline {subsection}{\numberline {11.2}\LaTeXe {}\ 加载程序}{29}{subsection.0.11.2}%
+\contentsline {subsection}{\numberline {11.3}通用加载程序}{39}{subsection.0.11.3}%
+\contentsline {part}{\CJKfamily {heiti}{\large 索引}}{42}{part*.3}%

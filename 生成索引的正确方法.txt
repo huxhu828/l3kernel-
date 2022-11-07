@@ -1,0 +1,29 @@
+1、在winedt中打开classes_ZH_CN.dtx，先用xelatex编译一次
+
+2、在winedt中打开命令行，键入命令：makeindex -s gind.ist -o expl3_ZH_CN.ind expl3_ZH_CN.idx         回车
+
+3、在生成的classes_ZH_CN.ind中中文化一些内容，比如将“symbol”汉化成“{\Heiti 符号}”
+
+4、在winedt中再用xelatex编译至少两次
+
+生成的PDF文件就有索引了
+
+
+5、在l3doc.cls文件中，搜索“\IndexPrologue”，修改“Index”为“索引‘及其中一些内容，最终汉化”索引“等。
+
+
+
+
+
+
+下面是一个示例：
+
+Windows 以外的操作系统请参考下面的说明：
+运行 latex ctex.ins 得到宏包文件和配置文件。
+运行 latex ctex.dtx 得到宏包说明文件。
+说明文件的索引生成需要特殊处理：
+makeindex -s gind.ist -o ctex.ind ctex.idx
+makeindex -s gglo.ist -o ctex.gls ctex.glo
+然后重新编译 ctex.dtx 文件就可以得到正确的索引和修改记录。
+
+
